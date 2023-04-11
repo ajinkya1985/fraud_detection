@@ -10,5 +10,5 @@ def model 3:
     print("Model 3 is running")
     return model 3
 
-print("Model 2 is optimum")
+print("Model 2 is optimum. Selected.")
 
